@@ -15,4 +15,10 @@ public class TestGit {
     {
         System.out.println("Try update and Push to repo");
     }
+
+    @Test
+    public void merge()
+    {
+        System.out.println("Try update branch and Merge to Master");
+    }
 }
