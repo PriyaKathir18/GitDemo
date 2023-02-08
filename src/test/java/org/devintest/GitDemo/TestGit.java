@@ -9,4 +9,10 @@ public class TestGit {
     {
         System.out.println("Executing Test");
     }
+
+    @Test
+    public void commitCheck()
+    {
+        System.out.println("Try update and Push to repo");
+    }
 }
